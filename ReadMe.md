@@ -1,16 +1,14 @@
 # ASP.NET Core Developer Roadmap
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](http://makeapullrequest.com)
-[![Backers on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/backers/badge.svg)](#backers)
-[![Sponsors on Open Collective](https://opencollective.com/AspNetCore-Developer-Roadmap/sponsors/badge.svg)](#sponsors)
-
 - [Dark Version](https://raw.githubusercontent.com/MoienTajik/AspNetCore-Developer-Roadmap/master/aspnetcore-developer-roadmap.png)
-- [Read-me in Simplified Chinese](ReadMe.zh-Hans.md)
-- [Read-me in Traditional Chinese](ReadMe.zh-Hant.md)
 
 > Roadmap to becoming an [ASP.NET Core](https://docs.microsoft.com/aspnet/core) developer in 2021:
 
 Below you can find a chart demonstrating the paths that you can take and the libraries that you would want to learn to become an ASP.NET Core developer. I made this chart as a tip for everyone who asks me, "What should I learn next as an ASP.NET Core developer?"
+
+## Roadmap
+
+![Roadmap](./aspnetcore-developer-roadmap-printable.png)
 
 ## Disclaimer
 
@@ -19,10 +17,6 @@ Below you can find a chart demonstrating the paths that you can take and the lib
 ## Give a Star! :star:
 
 If you like or are using this project to learn or start your solution, please give it a star. Thanks!
-
-## Roadmap
-
-![Roadmap](./aspnetcore-developer-roadmap-printable.png)
 
 ## Resources
 
